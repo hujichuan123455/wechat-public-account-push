@@ -17,7 +17,7 @@ const USER_CONFIG = {
   templateID:'	aHZTSgL-FjyOfOxBC7J6nDCplYor0uDtYUNavy6Zb28',
   
   //发送的用户ID
-  user:[om0HX5rBsLRoaImmtfRUn_3qx3_s],
+  user:['om0HX5rBsLRoaImmtfRUn_3qx3_s'],
 
   PROVINCE: '重庆',
   CITY: '江津',
