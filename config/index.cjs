@@ -13,6 +13,10 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'a6bc1efb27eec1f3a3101a7af22a0f9a',
   
+  //模板消息id
+  templateID:'	aHZTSgL-FjyOfOxBC7J6nDCplYor0uDtYUNavy6Zb28',
+  
+  //发送的用户ID
   user:[om0HX5rBsLRoaImmtfRUn_3qx3_s],
 
   PROVINCE: '重庆',
