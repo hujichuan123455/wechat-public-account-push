@@ -42,7 +42,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-05-13' },
-          title: '亲爱的, 早上好',
       ],
     },
   ],
