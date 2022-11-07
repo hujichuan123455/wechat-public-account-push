@@ -15,7 +15,7 @@ const USER_CONFIG = {
   
 
   PROVINCE: '重庆',
-  CITY: '江津',
+  CITY: '大渡口',
 
   USERS: [
     {
@@ -34,7 +34,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '*生日', name: '', year: '2002', date: '12-25',
+          type: '*生日', name: '', year: '2002', date: '12-5',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
